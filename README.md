@@ -1,0 +1,1 @@
+Reproducing [this paper](https://www.researchgate.net/profile/Alexander_Leemans/publication/236919283_Weighted_linear_least_squares_estimation_of_diffusion_MRI_parameters_strengths_limitations_and_pitfalls/links/0c96052b2e3d4cd539000000.pdf)
